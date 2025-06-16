@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tamam Huda
 
-### 🚀 Backend Developer | Python, TypeScript | Django, FastAPI, React, Nest.js
+### 🚀 Backend Developer | Python, TypeScript | Django, FastAPI, React, Expo, Nest.js
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tamamhuda-blue?logo=linkedin)](https://www.linkedin.com/in/tamamhuda/)
 [![GitHub](https://img.shields.io/badge/GitHub-tamamhuda-black?logo=github)](https://www.github.com/tamamhuda/)
@@ -14,7 +14,7 @@
 I'm a passionate Backend Developer with a keen interest in open source, web development, and mobile app development. I thrive on building robust, scalable systems and have a strong affinity for cloud technologies and automation.
 
 - **Languages:** Python, TypeScript, JavaScript
-- **Frameworks:** Django, Flask, FastAPI, React, Next.js, NestJS, ExpressJS
+- **Frameworks:** Django, Flask, FastAPI, React, Expo, React Native, Next.js, NestJS, ExpressJS
 - **DevOps:** Docker, Git, AWS, CI/CD, Cloudflare
 - **Databases:** PostgreSQL, MySQL, Redis
 - **Task Queues:** Celery, RabbitMQ, BullMQ
