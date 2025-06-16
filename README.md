@@ -21,10 +21,9 @@ I'm a **Backend Developer** passionate about building robust, scalable, and effi
 - **DevOps:** Docker, Git, AWS, CI/CD, Cloudflare
 - **Data & Messaging:** Pandas, Celery, RabbitMQ, BullMQ, Redis
 - **Databases:** PostgreSQL, MySQL
-- **Testing:** Playwright
 - **Web Servers:** Nginx, Apache
-- **OS:** MacOS, Windows, Linux
-- **Other:** Payment Gateway Integration, Tunneling
+- **Development Environment:** MacOS, Windows, Linux
+- **Other:** Playwright, Payment Gateway Integration, Tunneling
 
 ---
 
