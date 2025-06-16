@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tamam Huda
 
-### 🚀 Backend Developer | Python, JavaScript, TypeScript | Django, FastAPI, React, Nest.js
+### 🚀 Backend Developer | Python, TypeScript | Django, FastAPI, React, Nest.js
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tamamhuda-blue?logo=linkedin)](https://www.linkedin.com/in/tamamhuda/)
 [![GitHub](https://img.shields.io/badge/GitHub-tamamhuda-black?logo=github)](https://www.github.com/tamamhuda/)
