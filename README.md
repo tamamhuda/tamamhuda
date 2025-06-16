@@ -13,18 +13,22 @@ I'm a **Backend Developer** passionate about building robust, scalable, and effi
 
 ---
 
-## 🛠️ Top Skills & Technologies
+## 🛠️ Skills & Technologies
 
+### ⚙️ Backend (Main)
 - **Languages:** Python, TypeScript, JavaScript  
-- **Frameworks:** Django, Flask, FastAPI, NestJS, Express.js, React, Expo (React Native), Next.js  
-- **API:** REST API, GraphQL, Websocket 
-- **DevOps:** Docker, Git, AWS, CI/CD, Cloudflare  
-- **Data & Messaging:** Pandas, Celery, RabbitMQ, BullMQ, Redis  
+- **Frameworks:** Django, Flask, FastAPI, NestJS, Express.js  
+- **API:** REST API, GraphQL  
 - **Databases:** PostgreSQL, MySQL  
 - **ORMs:** Prisma, TypeORM, SQLAlchemy, Django ORM, Pydantic  
+- **Data & Messaging:** Celery, RabbitMQ, BullMQ, Redis, Pandas  
+- **DevOps & Deployment:** Docker, Git, AWS, CI/CD, Cloudflare  
 - **Web Servers:** Nginx, Apache  
 - **Development Environment:** MacOS, Windows, Linux  
-- **Other:** Playwright, Payment Gateway Integration, Tunneling
+- **Other Backend Tools:** Playwright (web scraping, automation), Payment Gateway Integration (backend processing), Tunneling  
+
+### 🖥️ Frontend (Secondary)
+- **Frameworks & Libraries:** React, Expo (React Native), Next.js  
 
 ---
 
