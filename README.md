@@ -14,7 +14,7 @@ I'm a passionate backend developer specializing in robust, scalable web and mobi
 
 ## 🛠️ Top Skills & Technologies
 
-- **Languages:** Python, JavaScript (ES6+)
+- **Languages:** Python, JavaScript, TypeScript
 - **Frameworks:** Django, Flask, FastAPI, React, React Native, Next.js, NestJS, Express.js
 - **DevOps:** Docker
 - **Databases:** PostgreSQL, MySQL, SQLite, MongoDB
