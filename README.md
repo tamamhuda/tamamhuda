@@ -16,7 +16,7 @@ I'm a **Backend Developer** passionate about building robust, scalable, and effi
 ## 🛠️ Top Skills & Technologies
 
 - **Languages:** Python, TypeScript, JavaScript
-- **Frameworks:** Django, Flask, FastAPI, React, Next.js, NestJS, Express.js
+- **Frameworks:** Django, Flask, FastAPI, NestJS, Express.js, React, Expo (React Native), Next.js,
 - **API:** REST API, GraphQL
 - **DevOps:** Docker, Git, AWS, CI/CD, Cloudflare
 - **Data & Messaging:** Pandas, Celery, RabbitMQ, BullMQ, Redis
