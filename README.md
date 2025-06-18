@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Backend Developer** passionate about building robust, scalable, and efficient backend systems for web and mobile applications. I thrive on crafting REST APIs, architecting SaaS solutions, and optimizing performance for large-scale deployments.
+Backend Developer with experience in scalable backend systems for web and mobile. Skilled in RESTful APIs, relational databases, and asynchronous task integration. Proficient in cloud infrastructure and modern backend stacks. Committed to clean architecture and efficient coding practices.Backend Developer with experience in scalable backend systems for web and mobile. Skilled in RESTful APIs, relational databases, and asynchronous task integration. Proficient in cloud infrastructure and modern backend stacks. Committed to clean architecture and efficient coding practices.
 
 ---
 
