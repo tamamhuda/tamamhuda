@@ -60,7 +60,7 @@ Backend Developer with experience in scalable backend systems for web and mobile
 
 - **LinkedIn:** [tamamhuda](https://www.linkedin.com/in/tamamhuda/)
 - **GitHub:** [tamamhuda](https://www.github.com/tamamhuda/)
-- **Instagram:** [tamamhuda](https://www.instagram.com/tamamhuda/)
+- **Instagram:** [tamamhudaa](https://www.instagram.com/tamamhudaa/)
 - **Email:** tamamhuda11@gmail.com
 
 ---
