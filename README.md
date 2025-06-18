@@ -9,8 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-Backend Developer with experience in scalable backend systems for web and mobile. Skilled in RESTful APIs, relational databases, and asynchronous task integration. Proficient in cloud infrastructure and modern backend stacks. Committed to clean architecture and efficient coding practices.Backend Developer with experience in scalable backend systems for web and mobile. Skilled in RESTful APIs, relational databases, and asynchronous task integration. Proficient in cloud infrastructure and modern backend stacks. Committed to clean architecture and efficient coding practices.
-
+Backend Developer with experience in scalable backend systems for web and mobile. Skilled in RESTful APIs, relational databases, and asynchronous task integration. Proficient in cloud infrastructure and modern backend stacks. Committed to clean architecture and efficient coding practices.
 ---
 
 ## 🛠️ Skills & Technologies
