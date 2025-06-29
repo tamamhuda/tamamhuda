@@ -1,3 +1,5 @@
+![My Banner](./banner.png)
+
 # 👋 Hi, I'm Tamam Huda
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tamamhuda-blue?logo=linkedin)](https://www.linkedin.com/in/tamamhuda/)
