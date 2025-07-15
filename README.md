@@ -21,7 +21,7 @@ Backend Developer with experience in scalable backend systems for web and mobile
 - **Languages:** Python, TypeScript, JavaScript  
 - **Frameworks:** Django, Flask, FastAPI, NestJS, ExpressJs  
 - **API:** REST API, GraphQL  
-- **Databases:** PostgreSQL, MySQL  
+- **Databases:** PostgreSQL, MySQL, MongoDB 
 - **ORMs:** Prisma, TypeORM, SQLAlchemy, Django ORM, Pydantic  
 - **Data & Messaging:** Celery, RabbitMQ, BullMQ, Redis, Pandas  
 - **DevOps & Deployment:** Docker, Git, AWS, CI/CD, Cloudflare  
