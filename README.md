@@ -1,6 +1,6 @@
 ![My Banner](./banner.png)
 
-# 👋 Hi, I'm Tamam Huda
+# 👋 Hi, I'm Tamam Huda (Uta Dev)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tamamhuda-blue?logo=linkedin)](https://www.linkedin.com/in/tamamhuda/)
 [![GitHub](https://img.shields.io/badge/GitHub-tamamhuda-black?logo=github)](https://www.github.com/tamamhuda/)
