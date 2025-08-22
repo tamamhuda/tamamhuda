@@ -18,8 +18,8 @@ Backend Developer with experience in scalable backend systems for web and mobile
 ## 🛠️ Skills & Technologies
 
 ### ⚙️ Backend (Main)
-- **Languages:** Python, TypeScript, JavaScript  
-- **Frameworks:** Django, Flask, FastAPI, NestJS, ExpressJs  
+- **Languages:** Python, TypeScript, JavaScript, Java  
+- **Frameworks:** Django, Flask, FastAPI, NestJS, ExpressJs, Spring Boot  
 - **API:** REST API, GraphQL  
 - **Databases:** PostgreSQL, MySQL, MongoDB 
 - **ORMs:** Prisma, TypeORM, SQLAlchemy, Django ORM, Pydantic  
@@ -38,7 +38,7 @@ Backend Developer with experience in scalable backend systems for web and mobile
 
 - **SaaS URL Shortening API**
 - **SaaS Fullstack Waste Management Platform**
-- **Fullstack Digital E-commerce Web Application**
+- **Minimart E-commerce RESTful API**
 - **Travel App: Place & Tour Guide Recommendation System** (with Machine Learning)
 
 ---
