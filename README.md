@@ -1,4 +1,4 @@
-![My Banner](./banner.png)
+![My Banner](.img/banner.png)
 
 # 👋 Hi, I'm Tamam Huda (Uta Dev)
 
@@ -18,19 +18,21 @@ Backend Developer with experience in scalable backend systems for web and mobile
 ## 🛠️ Skills & Technologies
 
 ### ⚙️ Backend (Main)
-- **Languages:** Python, TypeScript, JavaScript, Java  
-- **Frameworks:** Django, Flask, FastAPI, NestJS, ExpressJs, Spring Boot  
-- **API:** REST API, GraphQL  
-- **Databases:** PostgreSQL, MySQL, MongoDB 
-- **ORMs:** Prisma, TypeORM, SQLAlchemy, Django ORM, Pydantic  
-- **Data & Messaging:** Celery, RabbitMQ, BullMQ, Redis, Pandas  
-- **DevOps & Deployment:** Docker, Git, AWS, CI/CD, Cloudflare  
-- **Web Servers:** Nginx, Apache  
-- **Development Environment:** MacOS, Windows, Linux  
-- **Other Backend Tools:** Playwright (web scraping, automation), Payment Gateway Integration (backend processing), Tunneling  
+
+- **Languages:** Python, TypeScript, JavaScript, Java
+- **Frameworks:** Django, Flask, FastAPI, NestJS, ExpressJs, Spring Boot
+- **API:** REST API, GraphQL
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **ORMs:** Prisma, TypeORM, SQLAlchemy, Django ORM, Pydantic
+- **Data & Messaging:** Celery, RabbitMQ, BullMQ, Redis, Pandas
+- **DevOps & Deployment:** Docker, Git, AWS, CI/CD, Cloudflare
+- **Web Servers:** Nginx, Apache
+- **Development Environment:** MacOS, Windows, Linux
+- **Other Backend Tools:** Playwright (web scraping, automation), Payment Gateway Integration (backend processing), Tunneling
 
 ### 🖥️ Frontend (Secondary)
-- **Frameworks & Libraries:** React, Expo (React Native), Next.js  
+
+- **Frameworks & Libraries:** React, Expo (React Native), Next.js
 
 ---
 

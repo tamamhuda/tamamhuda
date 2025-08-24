@@ -1,0 +1,10 @@
+.env**
+
+*.backup
+*.backup.*
+
+src/blog.html
+src/index.html
+
+.DS_Store
+.vscode/
