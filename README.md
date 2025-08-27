@@ -1,4 +1,4 @@
-![My Banner](.img/banner.png)
+![My Banner](./img/banner.png)
 
 # 👋 Hi, I'm Tamam Huda (Uta Dev)
 
